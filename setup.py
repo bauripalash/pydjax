@@ -18,7 +18,6 @@ setup(
     packages = find_packages(),
     classifiers = [
         "Programming Language :: Python",
-        'Development Status :: Beta',
         'Framework :: Django',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
