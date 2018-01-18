@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: pydjax
+Version: 0.1
+Summary: Easily Use MathJax with Django without any hassel
+Home-page: https://github.com/bauripalash/djax
+Author: Palash Bauri
+Author-email: palashbauri1@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: django,mathjax,djax
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP

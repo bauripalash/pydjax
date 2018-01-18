@@ -12,7 +12,7 @@ setup(
     keywords = 'django, mathjax, djax',
     author = 'Palash Bauri',
     author_email = 'palashbauri1@gmail.com',
-    url = 'https://github.com/bauripalash/djax',
+    url = 'https://github.com/bauripalash/pydjax',
     license = 'MIT',
     include_package_data = True,
     packages = find_packages(),
