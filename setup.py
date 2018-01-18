@@ -6,7 +6,7 @@ import pydjax
 
 setup(
     name = 'pydjax',
-    version = "0.1",
+    version = "0.2",
     description = "Easily Use MathJax with Django without any hassel",
     long_description = "",
     keywords = 'django, mathjax, pydjax',
