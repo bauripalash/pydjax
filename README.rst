@@ -97,7 +97,7 @@ Example:
         }
     }
 
-.. |image0| image:: https://img.shields.io/badge/version-0.1-red.svg
+.. |image0| image:: https://img.shields.io/badge/version-0.2-red.svg
 .. |image1| image:: https://readthedocs.org/projects/pydjax/badge/?version=latest
 	:target: http://pydjax.readthedocs.io/en/latest/?badge=latest
 	:alt: Documentation Status
