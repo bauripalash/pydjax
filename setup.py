@@ -9,7 +9,7 @@ setup(
     version = "0.1",
     description = "Easily Use MathJax with Django without any hassel",
     long_description = "",
-    keywords = 'django, mathjax, djax',
+    keywords = 'django, mathjax, pydjax',
     author = 'Palash Bauri',
     author_email = 'palashbauri1@gmail.com',
     url = 'https://github.com/bauripalash/pydjax',
