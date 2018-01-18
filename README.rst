@@ -1,6 +1,6 @@
 Project PyDJAX
 ==============
-_Easily Use MathJax with Django without any hassel_
+*Easily Use MathJax with Django without any hassel*
 
 +-------------------+----------------+
 | Author            | Palash Bauri   |
