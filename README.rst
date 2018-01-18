@@ -98,5 +98,6 @@ Example:
     }
 
 .. |image0| image:: https://img.shields.io/badge/version-0.1-red.svg
-.. |image1| image:: https://img.shields.io/badge/doc-0.1-orange.svg
-    
+.. |image1| image:: https://readthedocs.org/projects/pydjax/badge/?version=latest
+:target: http://pydjax.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
