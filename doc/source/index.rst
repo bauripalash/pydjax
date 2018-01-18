@@ -10,10 +10,10 @@ Welcome to Project PyDjax's documentation!
 **Author** : **Palash Bauri**
 
 
-**version**  : **0.1**
+**version**  : **0.2**
 
 
-**Documention**  :  **0.1**
+**Documention**  :  **0.2**
 
 **PyDjax** is an easy to use application to include MathJax in your django
 projects without any hassel, and easy configure directly from django
