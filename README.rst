@@ -10,6 +10,7 @@ Project PyDJAX
 | **Documention**   | |image1|       |
 +-------------------+----------------+
 
+**This Library is a fork of [kaleidos/django-mathjax](https://github.com/kaleidos/django-mathjax) , here just CDN of Mathjax has changed as the old CDN is no longer working , so this and the former library has same function!**
 
 **PyDjax** is an easy to use application to include MathJax in your django
 projects without any hassel, and easy configure directly from django
